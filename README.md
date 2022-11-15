@@ -47,3 +47,15 @@
 <a href="https://ibb.co/ZxLXCh7"><img src="https://i.ibb.co/sqmRrFz/2022-11-14-23-09-49.png" alt="2022-11-14-23-09-49" border="0"></a>
 </p>
 </details>
+
+5. [https://tury.ru/](https://github.com/Bazilit/Parsing/blob/main/pars_tyru_selenium.py)  
+***Описание сайта:*** Сайт по поиску туров, бронированию отелей.  
+***Задание:*** Сайт динамический с подгрузкой данных страницы по api. Использован в работе Selenium. На выходе нужны только ссылки на люксовые отели в виде txt файла.  
+<details>
+<p align="center">
+<a href="https://ibb.co/y8B3Hw9"><img src="https://i.ibb.co/K9z1TMP/2022-11-15-23-23-39.png" alt="2022-11-15-23-23-39" border="0"></a>
+<a href="https://ibb.co/ZJHzmyQ"><img src="https://i.ibb.co/0XBytP0/2022-11-15-23-24-48.png" alt="2022-11-15-23-24-48" border="0"></a>
+<a href="https://ibb.co/FBHZfnt"><img src="https://i.ibb.co/64X9pN5/2022-11-15-23-26-26-https-api-rsrv-me-hc-php-a-hc-most-id-1317-l-ru-sort-most.png" alt="2022-11-15-23-26-26-https-api-rsrv-me-hc-php-a-hc-most-id-1317-l-ru-sort-most" border="0"></a>
+<a href="https://ibb.co/PthW1T6"><img src="https://i.ibb.co/Lvtg9QZ/2022-11-15-23-22-47-hotel-url-list-txt-1-Visual-Studio-Code.png" alt="2022-11-15-23-22-47-hotel-url-list-txt-1-Visual-Studio-Code" border="0"></a>
+</p>
+</details>
