@@ -59,3 +59,15 @@
 <a href="https://ibb.co/PthW1T6"><img src="https://i.ibb.co/Lvtg9QZ/2022-11-15-23-22-47-hotel-url-list-txt-1-Visual-Studio-Code.png" alt="2022-11-15-23-22-47-hotel-url-list-txt-1-Visual-Studio-Code" border="0"></a>
 </p>
 </details>
+
+6. [https://shop.casio.ru/](https://github.com/Bazilit/Parsing/blob/main/pars_shop_casio.py)  
+***Описание сайта:*** Официальный сайт часов Casio.  
+***Задание:*** Из каталога сайта, нужно собрать по всем имеющимся часам: модель, ссылку на товар, артикул, ссылку на изображение. Скрипт на выходе должен сформировать данные в json и csv форматах одновременно(сохраненных под текущую дату). Реализован скрипт через selenium.  
+<details>
+<p align="center">
+<a href="https://ibb.co/5jBvQCK"><img src="https://i.ibb.co/HPnYcRh/2022-11-17-00-26-45-Casio-Casio.png" alt="2022-11-17-00-26-45-Casio-Casio" border="0"></a>
+<a href="https://ibb.co/PYvZZYp"><img src="https://i.ibb.co/hMJRRM5/2022-11-17-00-27-47-Casio-shop-casio-ru.png" alt="2022-11-17-00-27-47-Casio-shop-casio-ru" border="0"></a>
+<a href="https://ibb.co/2FKGFX7"><img src="https://i.ibb.co/x25x2VS/2022-11-17-00-26-20-data-17-11-2022-csv-1-Visual-Studio-Code.png" alt="2022-11-17-00-26-20-data-17-11-2022-csv-1-Visual-Studio-Code" border="0"></a>
+<a href="https://ibb.co/30X1Ywz"><img src="https://i.ibb.co/LCwShM5/2022-11-17-00-25-55-data-17-11-2022-json-1-Visual-Studio-Code.png" alt="2022-11-17-00-25-55-data-17-11-2022-json-1-Visual-Studio-Code" border="0"></a>
+</p>
+</details>
