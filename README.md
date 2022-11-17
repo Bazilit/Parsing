@@ -1,6 +1,6 @@
 *Перечень сайтов и заданий к ним.  
-Пример выпонения работы под спойлером:*
-
+Пример выпонения работы под спойлером:*  
+--
 1. [https://health-diet.ru/](https://github.com/Bazilit/Parsing/blob/main/pars_health-diet.py)  
 **Описание сайта:** Сайт про здоровье, питание.  
 **Задание:** Получить все данные из раздела сайта "Таблицы калорийности". Вывод данных в 3х видах: Json, csv, html страница раздела.  
@@ -12,6 +12,7 @@
 </p>
 </details>
 
+-----
 
 2. [https://www.bundestag.de](https://github.com/Bazilit/Parsing/blob/main/pars_bundestag.py)  
 **Описание сайта:** официальный сайт Германского Бундерстага. Содержит информацию о депутатах, входящих в палату.  
@@ -24,6 +25,7 @@
 </p>
 </details>
 
+-----
 
 3. [https://www.skiddle.com](https://github.com/Bazilit/Parsing/blob/main/pars_skiddle.py)  
 ***Описание сайта:*** Сайт посвящен созданию/планированию развлекательных мероприятий. Содержит перечень предстоящих крупных событий/концертов.  
@@ -37,6 +39,8 @@
 </p>
 </details>  
 
+-----
+
 4. [https://magnit.ru/](https://github.com/Bazilit/Parsing/blob/main/pars_magnit_catalog.py)  
 ***Описание сайта:*** Сайт компании магнит. Содержит информацию о сидках, вакансиях, каталоги товара, контактные данные и новости компании.  
 ***Задание:*** Сайт динамический. Нужна раскройка сезонного каталога магнит. Все его картинки и сам каталог. Каталог собрать из скачанных изображений в формате pdf.
@@ -47,6 +51,8 @@
 <a href="https://ibb.co/ZxLXCh7"><img src="https://i.ibb.co/sqmRrFz/2022-11-14-23-09-49.png" alt="2022-11-14-23-09-49" border="0"></a>
 </p>
 </details>
+
+-----
 
 5. [https://tury.ru/](https://github.com/Bazilit/Parsing/blob/main/pars_tyru_selenium.py)  
 ***Описание сайта:*** Сайт по поиску туров, бронированию отелей.  
@@ -60,6 +66,8 @@
 </p>
 </details>
 
+-----
+
 6. [https://shop.casio.ru/](https://github.com/Bazilit/Parsing/blob/main/pars_shop_casio.py)  
 ***Описание сайта:*** Официальный сайт часов Casio.  
 ***Задание:*** Из каталога сайта, нужно собрать по всем имеющимся часам: модель, ссылку на товар, артикул, ссылку на изображение. Скрипт на выходе должен сформировать данные в json и csv форматах одновременно(сохраненных под текущую дату). Реализован скрипт через selenium.  
@@ -71,6 +79,8 @@
 <a href="https://ibb.co/30X1Ywz"><img src="https://i.ibb.co/LCwShM5/2022-11-17-00-25-55-data-17-11-2022-json-1-Visual-Studio-Code.png" alt="2022-11-17-00-25-55-data-17-11-2022-json-1-Visual-Studio-Code" border="0"></a>
 </p>
 </details>
+
+-----
 
 7. [https://roscarservis.ru](https://github.com/Bazilit/Parsing/blob/main/pars_roscarservis.py)  
 ***Описание сайта:*** Сайт по продаже дисков/шин на различные авто. Содержит информацию о имеющихся моделях и остатках на складах с указанием цены.  
@@ -85,4 +95,6 @@
 <a href="https://ibb.co/LgWZBKB"><img src="https://i.ibb.co/qgfrh6h/2022-11-17-22-47-26-data-17-11-2022-22-46-json-1-Visual-Studio-Code.png" alt="2022-11-17-22-47-26-data-17-11-2022-22-46-json-1-Visual-Studio-Code" border="0"></a>
 </p>
 </details>
+
+-----
 
