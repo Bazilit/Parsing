@@ -71,3 +71,18 @@
 <a href="https://ibb.co/30X1Ywz"><img src="https://i.ibb.co/LCwShM5/2022-11-17-00-25-55-data-17-11-2022-json-1-Visual-Studio-Code.png" alt="2022-11-17-00-25-55-data-17-11-2022-json-1-Visual-Studio-Code" border="0"></a>
 </p>
 </details>
+
+7. [https://roscarservis.ru](https://github.com/Bazilit/Parsing/blob/main/pars_roscarservis.py)  
+***Описание сайта:*** Сайт по продаже дисков/шин на различные авто. Содержит информацию о имеющихся моделях и остатках на складах с указанием цены.  
+***Задание:*** Создать скрипт, позволяющий собирать данные из каталога шин. Вывод в json формате (в наименование дата запуска).  
+***О сайте:*** Сайт динамический. Подгрузка контента в каталоги реализована через запрос с ответом в виде json файла. Кол-во страниц в каталоге не постоянное (меняется в зависимости от наличия товара. В текущем варианте каталог представлен в виде 105 разделов).
+<details>
+<p align="center">
+<a href="https://ibb.co/Xxfxphs"><img src="https://i.ibb.co/MkykpYV/2022-11-17-22-49-26.png" alt="2022-11-17-22-49-26" border="0"></a>
+<a href="https://ibb.co/r67qQGx"><img src="https://i.ibb.co/J7B8cRv/2022-11-17-22-50-14-175-65-R14-86-T-NOKIAN-TYRES-Hakkapeliitta-9-TL.png" alt="2022-11-17-22-50-14-175-65-R14-86-T-NOKIAN-TYRES-Hakkapeliitta-9-TL" border="0"></a>
+<a href="https://ibb.co/KwRRqpd"><img src="https://i.ibb.co/4d99Tnz/2022-11-17-22-48-46.png" alt="2022-11-17-22-48-46" border="0"></a>
+<a href="https://ibb.co/b1JM92h"><img src="https://i.ibb.co/5TFgHnD/2022-11-17-22-48-07-Online-JSON-Viewer.png" alt="2022-11-17-22-48-07-Online-JSON-Viewer" border="0"></a>
+<a href="https://ibb.co/LgWZBKB"><img src="https://i.ibb.co/qgfrh6h/2022-11-17-22-47-26-data-17-11-2022-22-46-json-1-Visual-Studio-Code.png" alt="2022-11-17-22-47-26-data-17-11-2022-22-46-json-1-Visual-Studio-Code" border="0"></a>
+</p>
+</details>
+
