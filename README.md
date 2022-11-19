@@ -103,10 +103,24 @@
 ***Задание:*** Собрать информацию о книгах в выбранном разделе: наименование, автор, цена, ссылка на книгу, скидка, издательство. Вывод в виде json файла.  
 <details>
 <p align="center">
-<a href="https://ibb.co/P4fpxbp"><img src="https://i.ibb.co/pZ9D2sD/2022-11-19-02-55-00.png" alt="2022-11-19-02-55-00" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>конвертировать файл в png</a><br />
-<a href="https://ibb.co/nBHxSSk"><img src="https://i.ibb.co/683j55s/2022-11-19-02-54-38.png" alt="2022-11-19-02-54-38" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>конвертировать файл в png</a><br />
-<a href="https://ibb.co/nPdKgvg"><img src="https://i.ibb.co/9ZKd8L8/2022-11-19-03-03-37-data-19-11-2022-03-03-json-1-Visual-Studio-Code.png" alt="2022-11-19-03-03-37-data-19-11-2022-03-03-json-1-Visual-Studio-Code" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>конвертировать файл в png</a><br />
+<a href="https://ibb.co/P4fpxbp"><img src="https://i.ibb.co/pZ9D2sD/2022-11-19-02-55-00.png" alt="2022-11-19-02-55-00" border="0">
+<a href="https://ibb.co/nBHxSSk"><img src="https://i.ibb.co/683j55s/2022-11-19-02-54-38.png" alt="2022-11-19-02-54-38" border="0">
+<a href="https://ibb.co/nPdKgvg"><img src="https://i.ibb.co/9ZKd8L8/2022-11-19-03-03-37-data-19-11-2022-03-03-json-1-Visual-Studio-Code.png" alt="2022-11-19-03-03-37-data-19-11-2022-03-03-json-1-Visual-Studio-Code" border="0">
 </p>
 </details>
 
 -----
+
+8.1. [Асинхронная версия скрипта](https://github.com/Bazilit/Parsing/blob/main/pars_labirint_asyncio.py)  
+***Описание***: Асинхронная версия парсера сайта лабиринт. Т.к. количество страниц для обработки может быть больше 400 страниц, то целесообразно было ускорить его производительность. Реализована задумка на базе asyncio и aiohttp.  
+***Результат***: Скорость обработки одинакового массива данных сокращена с 1 мин 30 сек до 14 сек в среднем(с учетом пауз ожидания). Без учета максимальных возможных пауз ожидания, скорость обработки уменьшена с 34 сек до 14 сек, что является приростом в 2,4 раза.  
+<details>
+<p align="center">
+<a href="https://ibb.co/kHQ08gx"><img src="https://i.ibb.co/ZLWK86V/2022-11-19-20-55-02-data-19-11-2022-20-54-async-json-1-Visual-Studio-Code.png" alt="2022-11-19-20-55-02-data-19-11-2022-20-54-async-json-1-Visual-Studio-Code" border="0"></a>
+<a href="https://ibb.co/pXc4rvD"><img src="https://i.ibb.co/ggNtFM1/2022-11-19-20-55-32-data-19-11-2022-03-03-json-1-Visual-Studio-Code.png" alt="2022-11-19-20-55-32-data-19-11-2022-03-03-json-1-Visual-Studio-Code" border="0"></a>
+<a href="https://ibb.co/py6hC9p"><img src="https://i.ibb.co/3z5RtLH/2022-11-19-21-14-18-2022-11-19-03-03-37-data-19-11-2022-03-03-json-1-Visual-Studio-Code-Img-BB.png" alt="2022-11-19-21-14-18-2022-11-19-03-03-37-data-19-11-2022-03-03-json-1-Visual-Studio-Code-Img-BB" border="0"></a>
+</p>
+</details>
+
+-----
+
