@@ -98,3 +98,15 @@
 
 -----
 
+8. [https://www.labirint.ru](https://github.com/Bazilit/Parsing/blob/main/pars_labirint.py)  
+***Описание сайта:***  Крупный книжный интернет магазин.  
+***Задание:*** Собрать информацию о книгах в выбранном разделе: наименование, автор, цена, ссылка на книгу, скидка, издательство. Вывод в виде json файла.  
+<details>
+<p align="center">
+<a href="https://ibb.co/P4fpxbp"><img src="https://i.ibb.co/pZ9D2sD/2022-11-19-02-55-00.png" alt="2022-11-19-02-55-00" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>конвертировать файл в png</a><br />
+<a href="https://ibb.co/nBHxSSk"><img src="https://i.ibb.co/683j55s/2022-11-19-02-54-38.png" alt="2022-11-19-02-54-38" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>конвертировать файл в png</a><br />
+<a href="https://ibb.co/nPdKgvg"><img src="https://i.ibb.co/9ZKd8L8/2022-11-19-03-03-37-data-19-11-2022-03-03-json-1-Visual-Studio-Code.png" alt="2022-11-19-03-03-37-data-19-11-2022-03-03-json-1-Visual-Studio-Code" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>конвертировать файл в png</a><br />
+</p>
+</details>
+
+-----
