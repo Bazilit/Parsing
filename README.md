@@ -127,7 +127,7 @@
 9. [https://www.landingfolio.com/](https://github.com/Bazilit/Parsing/blob/main/landingfolio_selenium_scr.py)  
 ***Описание сайта:***  Сайт содержит подборки ландингов с примерами и описанием.  
 ***Задание:*** Собрать все ссылки на имеющиеся ландинги, их название, описание, ссылку на сайт и изображение. Вывод в свободной форме (всего 840 лендингов).  
-***Описание сайта:*** Сайт динамический. Изображения с защитой прямой ссылки. Реализован парсер через selenium, для статики подгрузки содержимого и ссылок на изображения.  
+***О сайте:*** Сайт динамический. Изображения с защитой прямой ссылки. Реализован парсер через selenium, для статики подгрузки содержимого и ссылок на изображения.  
 <details>
 <p align="center">
 <a href="https://ibb.co/4Wms3Cg"><img src="https://i.ibb.co/BLz4FvK/2022-11-22-00-49-52-The-Best-Landing-Page-Design-Inspiration-Templates-and-More-Landingfolio.png" alt="2022-11-22-00-49-52-The-Best-Landing-Page-Design-Inspiration-Templates-and-More-Landingfolio" border="0"></a>
@@ -135,6 +135,20 @@
 <a href="https://ibb.co/FbwfGV3"><img src="https://i.ibb.co/zhRLKJx/2022-11-22-00-47-56-selenium-scr-py-Test-Visual-Studio-Code.png" alt="2022-11-22-00-47-56-selenium-scr-py-Test-Visual-Studio-Code" border="0"></a>
 <a href="https://ibb.co/fFRRnC2"><img src="https://i.ibb.co/54DDn56/2022-11-22-00-48-43-url-list-txt-Test-Visual-Studio-Code.png" alt="2022-11-22-00-48-43-url-list-txt-Test-Visual-Studio-Code" border="0"></a>
 <a href="https://ibb.co/pXjR54S"><img src="https://i.ibb.co/dK4LxkR/2022-11-22-00-49-25-data-json-Test-Visual-Studio-Code.png" alt="2022-11-22-00-49-25-data-json-Test-Visual-Studio-Code" border="0"></a>
+</p>
+</details>
+
+-----
+
+10. [https://spb.zoon.ru/](https://github.com/Bazilit/Parsing/blob/main/pars_spb_zoon.py)  
+***Описание сайта:*** Рейтинговый агрегатор заведений на основание отзывов и оценок пользователей.  
+***Задание:***  Собрать всю информацию о медецинских учреждениях: Название, телефон, сайт, адрес. Вывод в свободном формате.  
+***О сайте:*** Сайт с динамической прогрузкой данным по мере прокрутки. Реализация через selenium с автоматической прокруткой страницы.
+<details>
+<p align="center">
+<a href="https://ibb.co/Xs4tRkH"><img src="https://i.ibb.co/KqGWvzn/2022-11-29-01-14-22.png" alt="2022-11-29-01-14-22" border="0"></a>
+<a href="https://ibb.co/3vfbHBg"><img src="https://i.ibb.co/XDyPTSc/2022-11-29-01-14-52.png" alt="2022-11-29-01-14-52" border="0"></a>
+<a href="https://ibb.co/KGdRxhM"><img src="https://i.ibb.co/sPnk9R0/2022-11-29-01-13-51-result-json-Test-Visual-Studio-Code.png" alt="2022-11-29-01-13-51-result-json-Test-Visual-Studio-Code" border="0"></a>
 </p>
 </details>
 
